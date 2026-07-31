@@ -1,6 +1,6 @@
 # C Programming
 
-This section contains structured notes for C programming, including core concepts, practical examples, memory management, and common interview questions.
+This section contains structured notes for learning C programming from fundamentals to advanced concepts.
 
 ## Topics
 
@@ -8,9 +8,11 @@ This section contains structured notes for C programming, including core concept
 - Data Types
 - Operators
 - Input & Output
+- Conditions
+- Loops
+- Functions
 - Arrays
 - Strings
-- Functions
 - Pointers
 - Structures
 - Dynamic Memory
@@ -18,4 +20,8 @@ This section contains structured notes for C programming, including core concept
 
 ## Interview Preparation
 
-This section also includes common C interview questions and explanations.
+Common C interview questions with explanations and practical examples.
+
+## Goal
+
+Build a strong foundation in programming and problem solving using C.
